@@ -1,4 +1,4 @@
-# access_monitor
+# Site access monitor
 Discord site access monitor for apache2
 
 Run on website server and each time a client accesses you site it is added to access.log which this script monitors and whan it changes send a discord wehook of the ip and information about the ip address.
